@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Polygon Calculator/Polygon Calculator.vcxproj" Id="f0efd65e-0523-40cb-8821-bddb05a1601d" />
+</Solution>
