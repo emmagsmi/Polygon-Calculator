@@ -1,4 +1,4 @@
-// File:		SmithE-Assignment-1.cpp 
+// File:		main.cpp 
 // Description:	This file contains the client code and useful functions. It allows the client to create polygon objects,
 //              display all shapes created, and display the statistics for all shapes created using a menu.
 // Author:	  	Emma Smith
